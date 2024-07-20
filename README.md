@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Putting projects I've worked on (and haven't lost the files for) on GitHub
+Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
 * [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
