@@ -26,4 +26,4 @@ Putting projects I've worked on (and haven't lost the files for) on GitHub
 * JS
 
 📫 How to reach me: ...
-[Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
+* [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
