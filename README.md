@@ -10,8 +10,10 @@ Putting projects I've worked on (and haven't lost the files for) on GitHub
 👨‍💻 I’m interested in ...
 * Desktop development
 * App development
+* Game development
 * Web development
-* Working with data
+* Database development
+* Data science
 
 🌱 I’m currently learning ...
 * C++
