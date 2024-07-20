@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**ProjectsKoryHasWorkedOn/ProjectsKoryHasWorkedOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Putting projects I've worked on (and haven't lost the files for) on GitHub. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...
+[Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
+[Dance Syllabuses website](https://dancesyllabuses.com)
+[Hopping Forwards website](https://hoppingforwards.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I’m interested in ...
+* Desktop development
+* App development
+* Web development
+* Working with data
+
+🌱 I’m currently learning ...
+* C++
+  * W/ QT framework
+* R 
+* SQL
+* PHP
+* HTML
+* CSS
+* JS
+
+📫 How to reach me: ...
+[Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
