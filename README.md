@@ -2,12 +2,12 @@
 
 Putting projects I've worked on (and haven't lost the files for) on GitHub
 
-🔭 I’m currently working on ...
+👨‍💻 I’m currently working on ...
 * [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
 * [Dance Syllabuses website](https://dancesyllabuses.com)
 * [Hopping Forwards website](https://hoppingforwards.com/)
 
-👨‍💻 I’m interested in ...
+😀 I’m interested in ...
 * Desktop development
 * App development
 * Game development
@@ -15,7 +15,7 @@ Putting projects I've worked on (and haven't lost the files for) on GitHub
 * Database development
 * Data science
 
-🌱 I’m currently learning ...
+📚 I’m currently learning ...
 * C++
   * W/ QT framework
 * R 
