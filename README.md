@@ -3,9 +3,9 @@
 Putting projects I've worked on (and haven't lost the files for) on GitHub
 
 🔭 I’m currently working on ...
-[Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
-[Dance Syllabuses website](https://dancesyllabuses.com)
-[Hopping Forwards website](https://hoppingforwards.com/)
+* [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
+* [Dance Syllabuses website](https://dancesyllabuses.com)
+* [Hopping Forwards website](https://hoppingforwards.com/)
 
 👨‍💻 I’m interested in ...
 * Desktop development
