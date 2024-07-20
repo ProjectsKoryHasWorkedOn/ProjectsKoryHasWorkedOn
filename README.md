@@ -11,6 +11,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * Desktop development
 * App development
 * Game development
+* Game scenario development
 * Web development
 * Database development
 * Data science
