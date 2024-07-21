@@ -10,11 +10,11 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 😀 I’m interested in ...
 * Desktop development
 * App development
-* Game development
-* Game scenario development
 * Web development
 * Database development
 * Data science
+* Video game development
+* Video game scenario development
 
 📚 I’m currently learning ...
 * C++
