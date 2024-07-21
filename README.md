@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
