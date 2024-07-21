@@ -27,7 +27,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * JS
 
 ⭐ I’m trying to ...
-* Improve what I make over time (can see progression through older projects I've worked on)
+* Improve what I make over time
 
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
