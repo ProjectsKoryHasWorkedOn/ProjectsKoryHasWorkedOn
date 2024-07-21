@@ -26,6 +26,11 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * CSS
 * JS
 
+📚 In the past, I've tried ...
+* ActionScript 3
+* Processing
+* Visual Basic
+
 ⭐ I’m trying to ...
 * Increase my creative output
 
