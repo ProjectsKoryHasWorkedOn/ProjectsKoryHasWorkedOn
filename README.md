@@ -5,7 +5,9 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 👨‍💻 I’m currently working on ...
 * [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
 * [Dance Syllabuses website](https://dancesyllabuses.com)
+* Dance Syllabuses web application
 * [Hopping Forwards website](https://hoppingforwards.com/)
+* Web development project for UofA course 
 
 😀 I’m interested in ...
 * Desktop development
