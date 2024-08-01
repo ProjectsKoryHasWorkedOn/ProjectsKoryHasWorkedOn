@@ -7,7 +7,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * [Dance Syllabuses website](https://dancesyllabuses.com)
 * Dance Syllabuses web application
 * [Hopping Forwards website](https://hoppingforwards.com/)
-* Web development project for UofA course 
+* [Web development project for uni](https://github.com/ProjectsKoryHasWorkedOn/2024_SmartManufacturingDashboardWebDevGroupProject)
 
 😀 I’m interested in ...
 * Desktop development
