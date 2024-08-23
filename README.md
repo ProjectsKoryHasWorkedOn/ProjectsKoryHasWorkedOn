@@ -52,11 +52,12 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * JS
 
 📚 In the past, I've worked with ...
-* ActionScript 3
+* AS3 
 * Processing
   * W/ Libraries
     * E.g. [Minim](https://github.com/ddf/Minim)
-* Visual Basic
+* VB
+* VBA
 
 ⭐ I’m trying to ...
 * Increase my creative output
