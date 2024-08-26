@@ -29,6 +29,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
     * E.g. [fmtlib](https://github.com/fmtlib/fmt/tree/29d7e580598ecf7d3d5ecc6e8d5dfadba14cf132)
     * E.g. [spdlog](https://github.com/gabime/spdlog/tree/5ebfc927306fd7ce551fa22244be801cf2b9fdd9)
     * E.g. [tomlplusplus](https://github.com/marzer/tomlplusplus/tree/e2bae9d559b4956a831fcef10ac8f01c88cb0d13)
+    * E.g. [libcrypt](https://github.com/peterzuger/libcrypt)
 * R
   * W/ Packages
     * E.g. [mongolite](https://github.com/jeroen/mongolite)
