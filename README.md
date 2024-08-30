@@ -12,7 +12,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 👨‍💻 I would like to work on ...
 * English-Russian text desktop application
 * Cyrllic keyboard typing game
-* Age of Mythology Retold scenario
+* Age of Mythology Retold scenario since [there aren't a lot out](https://aom.heavengames.com/downloads/lister.php?category=aomr_rms)
 
 😀 I’m interested in ...
 * Desktop development
