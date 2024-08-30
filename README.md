@@ -9,6 +9,11 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * [Hopping Forwards website](https://hoppingforwards.com/)
 * [Web development project for uni](https://github.com/ProjectsKoryHasWorkedOn/2024_SmartManufacturingDashboardWebDevGroupProject)
 
+👨‍💻 I would like to work on ...
+* English-Russian text desktop application
+* Cyrllic keyboard typing game
+* Age of Mythology Retold scenario
+
 😀 I’m interested in ...
 * Desktop development
 * App development
