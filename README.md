@@ -9,9 +9,9 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * [Hopping Forwards website](https://hoppingforwards.com/)
 * [Web development project for uni](https://github.com/ProjectsKoryHasWorkedOn/2024_SmartManufacturingDashboardWebDevGroupProject)
 
-👨‍💻 I would like to work on ...
+👨‍💻 In the future, I would like to work on ...
 * English-Russian text desktop application
-* Cyrllic keyboard typing game
+* Typing game w/ Cyrllic keyboard support
 * Age of Mythology Retold scenario since [there aren't a lot out](https://aom.heavengames.com/downloads/lister.php?category=aomr_rms)
 
 😀 I’m interested in ...
