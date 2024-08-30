@@ -19,7 +19,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * Video game scenario development
 
 😒 I’m not as interested in ...
-* Board game development
+* Board game designing
 
 📚 I’m currently working with ...
 * C++
