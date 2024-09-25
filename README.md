@@ -60,7 +60,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * CSS
 * JS
 
-📚 In the past, I've worked with ...
+📚 In the past, I've tried out ...
 * AS3 
 * Processing
   * W/ Libraries
