@@ -7,7 +7,6 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * [Dance Syllabuses website](https://dancesyllabuses.com)
 * [Dance Syllabuses web application](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend)
 * [Hopping Forwards website](https://hoppingforwards.com/)
-* [Web development project for uni](https://github.com/ProjectsKoryHasWorkedOn/2024_SmartManufacturingDashboardWebDevGroupProject)
 
 👨‍💻 In the future, I would like to work on ...
 * English-Russian text desktop application
