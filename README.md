@@ -26,6 +26,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * Board game designing
 
 📚 I’m currently working with ...
+* Bash
 * C++
   * W/ Frameworks
     * E.g. [QT framework](https://github.com/qt)
