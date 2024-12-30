@@ -3,9 +3,9 @@
 Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
-* [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024)
+* [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
 * [Dance Syllabuses website](https://dancesyllabuses.com)
-* [Dance Syllabuses mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend)
+* [Dance Syllabuses mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
 * [Hopping Forwards website](https://hoppingforwards.com/)
 
 😀 I’m interested in ...
