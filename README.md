@@ -25,7 +25,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 🗣️ What languages I've been working with ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsKoryHasWorkedOn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsKoryHasWorkedOn)]
 
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
