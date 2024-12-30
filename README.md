@@ -22,10 +22,11 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 ⭐ I’m trying to ...
 * Increase my creative output
-
+  
 🗣️ What languages I've been working with ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsKoryHasWorkedOn)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsKoryHasWorkedOn)
+
 
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
