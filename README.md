@@ -28,7 +28,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 
 
-[![Kory's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ProjectsKoryHasWorkedOn/github-readme-stats)
+[![Kory's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsKoryHasWorkedOn)](https://github.com/ProjectsKoryHasWorkedOn/github-readme-stats)
 
 
 
