@@ -25,3 +25,11 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
+
+
+
+[![Kory's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ProjectsKoryHasWorkedOn/github-readme-stats)
+
+
+
+
