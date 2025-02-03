@@ -24,9 +24,13 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 ⭐ I’m trying to ...
 * Increase my creative output
   
-🗣️ What languages I've been working with ...
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsKoryHasWorkedOn)
+🗣️ What languages I've been working with (as of late) ...
+* C++
+* HTML
+* CSS
+* JS
+* PHP
+* QML
 
 
 📫 How to reach me: ...
