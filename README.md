@@ -9,6 +9,7 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * Online dance video platform financial backend (private)
 * [Online dance video platform backend DB](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
 * [Hopping Forwards website](https://hoppingforwards.com/) (publicly viewable)
+* [Hopping Forwards integration with Sanity CMS + Stripe + PayPal API] (https://github.com/ProjectsKoryHasWorkedOn/2024_Hopping_Forwards_Server) (private)
 
 😀 I’m interested in ...
 * Desktop development
