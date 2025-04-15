@@ -3,10 +3,11 @@
 Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
-* [Dance Syllabuses mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
-* [Dance Syllabuses website](https://dancesyllabuses.com) (private)
-* [Dance Syllabuses mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
-* [Dance Syllabuses backend data](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
+* [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
+* [Online dance video platform website](https://dancesyllabuses.com) (private)
+* [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
+* Online dance video platform financial backend (private)
+* [Online dance video platform backend DB](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
 * [Hopping Forwards website](https://hoppingforwards.com/) (publicly viewable)
 
 😀 I’m interested in ...
