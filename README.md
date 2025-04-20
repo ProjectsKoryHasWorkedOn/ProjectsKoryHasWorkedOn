@@ -24,6 +24,8 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 😒 I’m not as interested in ...
 * Board game designing
+=> I don't like analog iterative processes as much as digital ones 
+=> I don't like how "jigsaw-like" it is. There's all these "pieces" that have to work well together. And oftentimes if the whole isn't working (e.g. it's too expensive, complicated, time-consuming to play, etc.), the whole puzzle needs to be thrown out. 
 
 ⭐ I’m trying to ...
 * Increase my creative output
