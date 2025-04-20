@@ -23,7 +23,12 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * Video game scenario development
 
 😒 I’m not as interested in ...
-* Board game designing. Two reasons for this. (1) I don't like analog iterative processes as much as digital ones. (2) I don't like how "jigsaw-like" it is. There's all these "pieces" that have to work well together. And if the whole isn't greater than its parts (e.g. the game is too expensive, complicated, time-consuming to play, etc.), you often have to scrap the whole thing. 
+* Board game designing. Two reasons for this. (1) I don't like analog iterative processes as much as digital ones. (2) I don't like how "jigsaw-like" it is. There's all these "pieces" that have to work well together. And if the whole isn't greater than its parts (e.g. the game is too expensive, complicated, time-consuming to play, etc.), you often have to scrap the whole thing since it's all the parts together that don't work well together. Like a puzzle too, the more parts there are, the harder it is to make it a cohesive whole like this is a disjointed mess
+
+![RB17118-7](https://github.com/user-attachments/assets/46108138-2a1a-40e8-9f06-2c7491b5218b)
+
+
+  
 
 ⭐ I’m trying to ...
 * Increase my creative output
