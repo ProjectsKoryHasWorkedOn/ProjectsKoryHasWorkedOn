@@ -4,7 +4,6 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
 * [Dance class scheduling web application](https://github.com/ProjectsKoryHasWorkedOn/2025_Cloud_Backend) (private)
-* [Suffix Trie implementation](https://github.com/ProjectsKoryHasWorkedOn/2025_suffix_trie) (private)
 * [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
 * [Online dance video platform website](https://dancesyllabuses.com) (private)
 * [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
