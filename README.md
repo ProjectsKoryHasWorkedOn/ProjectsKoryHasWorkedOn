@@ -3,14 +3,28 @@
 Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
+University assignments:
+* [Graphs](https://github.com/ProjectsKoryHasWorkedOn/2025_Graphs) (private)
 * [Dance class scheduling web application](https://github.com/ProjectsKoryHasWorkedOn/2025_Cloud_Backend) (private)
+
+Machine learning exercises:
+* [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private)
+
+Dance online video platform:
 * [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
 * [Online dance video platform website](https://dancesyllabuses.com) (private)
 * [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
-* Online dance video platform financial backend (private)
-* [Online dance video platform backend DB](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
+* Online dance video platform financial backend (private) TODO
+  * Acts as middleware, providing integration with Stripe + PayPal API
+* [Online dance video platform shared files (backend DB, diagrams, and documents)](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
 * [Hopping Forwards website](https://hoppingforwards.com/) (publicly viewable)
-* [Hopping Forwards website integration with Sanity CMS + Stripe + PayPal API](https://github.com/ProjectsKoryHasWorkedOn/2024_Hopping_Forwards_Server) (private)
+
+Business website:
+* [Hopping Forwards backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Hopping_Forwards_Server) (private)
+  * Acts as middleware, providing integration with Sanity CMS + Stripe + PayPal API
+
+
+Dance online video platform:
 
 😀 I’m interested in ...
 * Desktop development
@@ -38,6 +52,8 @@ Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 * CSS
 * JS
 * PHP
+* Python
+* Java
 * QML
 
 
