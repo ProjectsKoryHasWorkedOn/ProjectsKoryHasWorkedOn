@@ -14,7 +14,7 @@ Dance online video platform:
 * [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private) with [Phillip Shackier](https://github.com/CppPhil)
 * [Online dance video platform website](https://dancesyllabuses.com) (private)
 * [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private) with [Phillip Shackier](https://github.com/CppPhil)
-* Online dance video platform financial backend (private) TODO
+* Online dance video platform financial backend (private) (START AFTER BUSINESS SITE BACKEND)
   * Acts as middleware, providing integration with Stripe + PayPal API
 * [Online dance video platform shared files (backend DB, diagrams, and documents)](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
 * [Hopping Forwards website](https://hoppingforwards.com/) (publicly viewable)
