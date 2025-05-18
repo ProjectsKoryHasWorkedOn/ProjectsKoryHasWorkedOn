@@ -8,12 +8,12 @@ University assignments:
 * [Dance class scheduling web application](https://github.com/ProjectsKoryHasWorkedOn/2025_Cloud_Backend) (private)
 
 Machine learning exercises:
-* [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private)
+* [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private) with [Edward Danillo](https://github.com/ed-cordero)
 
 Dance online video platform:
-* [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private)
+* [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private) with [Phillip Shackier](https://github.com/CppPhil)
 * [Online dance video platform website](https://dancesyllabuses.com) (private)
-* [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private)
+* [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private) with [Phillip Shackier](https://github.com/CppPhil)
 * Online dance video platform financial backend (private) TODO
   * Acts as middleware, providing integration with Stripe + PayPal API
 * [Online dance video platform shared files (backend DB, diagrams, and documents)](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
