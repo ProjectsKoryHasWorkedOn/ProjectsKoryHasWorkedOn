@@ -3,6 +3,7 @@
 Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
 
 👨‍💻 I’m currently working on ...
+
 University assignments:
 * [Graphs](https://github.com/ProjectsKoryHasWorkedOn/2025_Graphs) (private)
 * [Dance class scheduling web application](https://github.com/ProjectsKoryHasWorkedOn/2025_Cloud_Backend) (private)
