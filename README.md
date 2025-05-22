@@ -6,7 +6,7 @@ I'm also running a business, "Hopping Forwards", which is an ambition I've had s
 
 
 I enjoy working on pet projects. I'm putting on projects I've worked on (and haven't lost the files for 😢) on GitHub
-* I have, for example, lost files for a recreation of Pong in GameMaker (end of 2014) with AI or human opponent, special abilities, different levels, and so on as well as a project I did in Unity (2016). This isn't the end of the world though as I have a video game project in mind that will be more original, fun, useful, and show off more of what I am capable of
+* I have, for example, lost files for a recreation of Pong in GameMaker (end of 2014) with AI or human opponent, special abilities, different levels, and so on as well as a project I did in Unity (2016). This isn't the end of the world though as I have a video game project in mind that I'll be working on in the future. It will be more original, fun, useful, and show off more of what I am capable of
 
 👨‍💻 I’m currently working on ...
 
