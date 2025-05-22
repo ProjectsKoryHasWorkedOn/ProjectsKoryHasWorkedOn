@@ -60,6 +60,7 @@ Dance online video platform:
 
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
+* [LinkedIn @koryfrankee](https://www.linkedin.com/in/koryfrankee/)
 
 
 
