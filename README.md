@@ -1,6 +1,8 @@
 ## Welcome 👋
 
-Putting projects I've worked on (and haven't lost the files for 😢) on GitHub
+I'm a student at Flinders University. Studying a Bachelor of software engineering (honours). 
+
+I enjoy working on pet projects. I'm putting on projects I've worked on (and haven't lost the files for 😢. I have, for example, lost files for recreation of Pong in GameMaker with AI or human opponent, special abilities, different levels, and so on from years ago) on GitHub
 
 👨‍💻 I’m currently working on ...
 
