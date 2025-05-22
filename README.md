@@ -34,6 +34,7 @@ Dance online video platform:
 * Web development
 * Database development
 * Data science
+* Machine learning model development
 * Video game development
 * Video game scenario development
 
