@@ -45,9 +45,6 @@ Dance online video platform:
 
 ![RB17118-7](https://github.com/user-attachments/assets/46108138-2a1a-40e8-9f06-2c7491b5218b)
 
-
-  
-
 ⭐ I’m trying to ...
 * Increase my creative output
   
@@ -61,10 +58,10 @@ Dance online video platform:
 * Java
 * QML
 
-
 📫 How to reach me: ...
 * [Discord @dearwallaby](https://discord.com/users/users/351352351870943233)
 * [LinkedIn @koryfrankee](https://www.linkedin.com/in/koryfrankee/)
+* [Hopping Forwards](https://hoppingforwards.com/)
 
 
 
