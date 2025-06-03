@@ -8,9 +8,7 @@ I enjoy working on pet projects. I'm putting on projects I've worked on (and hav
 
 University assignments:
 * [Software testing code generation and testing](https://github.com/ProjectsKoryHasWorkedOn/2025_Software_Testing_Code_Generation_And_Testing) (private)
-* [Software testing practical 2](https://github.com/ProjectsKoryHasWorkedOn/2025_Software_testing_practical_2)
 * [Computer programming 3 game of life](https://github.com/ProjectsKoryHasWorkedOn/2025_Game_of_life)
-* [Cloud computing dance class scheduling web application](https://github.com/ProjectsKoryHasWorkedOn/2025_Cloud_Backend) (private)
 
 Machine learning exercises:
 * [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private) with [Edward Danillo](https://github.com/ed-cordero)
