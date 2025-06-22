@@ -6,10 +6,6 @@ I enjoy working on pet projects. I'm putting on projects I've worked on (and hav
 
 👨‍💻 I’m currently working on ...
 
-University assignments:
-* [Software testing code generation and testing](https://github.com/ProjectsKoryHasWorkedOn/2025_Software_Testing_Code_Generation_And_Testing) (private)
-* [Computer programming 3 game of life](https://github.com/ProjectsKoryHasWorkedOn/2025_Game_of_life)
-
 Machine learning exercises:
 * [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private) with [Edward Danillo](https://github.com/ed-cordero)
 
