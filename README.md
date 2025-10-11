@@ -4,26 +4,6 @@ I'm a student at Flinders University. Studying a Bachelor of software engineerin
 
 I enjoy working on pet projects. I'm putting on projects I've worked on (and haven't lost the files for 😢) on GitHub
 
-👨‍💻 I’m currently working on ...
-
-Machine learning exercises:
-* [ML projects](https://github.com/ProjectsKoryHasWorkedOn/2025_ML_Projects) (private) with [Edward Danillo](https://github.com/ed-cordero)
-
-Dance online video platform:
-* [Online dance video platform mobile application](https://github.com/ProjectsKoryHasWorkedOn/DanceSyllabusesApp_2024) (private) with [Phillip Shackier](https://github.com/CppPhil)
-* [Online dance video platform website](https://dancesyllabuses.com) (private)
-* [Online dance video platform mobile application backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend) (private) with [Phillip Shackier](https://github.com/CppPhil)
-* Online dance video platform financial backend (private) (START AFTER BUSINESS SITE BACKEND)
-  * Acts as middleware, providing integration with Stripe + PayPal API
-* [Online dance video platform shared files (backend DB, diagrams, and documents)](https://github.com/ProjectsKoryHasWorkedOn/2024_Dance_Syllabuses_App_Backend_Data) (private)
-
-Business website:
-* [Hopping Forwards backend](https://github.com/ProjectsKoryHasWorkedOn/2024_Hopping_Forwards_Server) (private)
-  * Acts as middleware, providing integration with Sanity CMS + Stripe + PayPal API
-* [Hopping Forwards website](https://hoppingforwards.com/) (publicly viewable)
-
-Dance online video platform:
-
 😀 I’m interested in ...
 * Desktop development
 * App development
