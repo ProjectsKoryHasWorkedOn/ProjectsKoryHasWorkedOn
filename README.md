@@ -14,12 +14,15 @@ I enjoy working on pet projects. I'm putting on projects I've worked on (and hav
 * Video game development
 * Video game scenario development
 
-👀 I'm currently focused on ...
-* [Dance learning platform mobile app](https://github.com/ProjectsKoryHasWorkedOn/2025_Dance_Learning_Platform_Mobile_App)
-* [Dance learning platform web backend](https://github.com/ProjectsKoryHasWorkedOn/2024-2025_Dance_Learning_Platform_Web_Backend)
-* [Dance learning platform website](https://github.com/ProjectsKoryHasWorkedOn/2024-2025_Dance_Learning_Platform_Website)
-* [Business website](https://github.com/ProjectsKoryHasWorkedOn/2024-2025_Hopping_Forwards_Website)
-* [Business financial web backend](https://github.com/ProjectsKoryHasWorkedOn/2024-2025_Hopping_Forwards_Financial_Backend)
+👀 I'm currently focused on own business projects ...
+* [Dance learning platform mobile app](https://github.com/Hopping-Forwards/2025_Dance_Learning_Platform_Mobile_App)
+* [Dance learning platform web backend](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Web_Backend)
+* [Dance learning platform website](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Website)
+* [Business website](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Website)
+* [Business financial web backend](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Financial_Backend)
+
+👀 I'm currently focused on these business projects for other people ...
+N/A
 
 😒 I’m not as interested in ...
 * Board game designing. Two reasons for this. (1) I don't like analog iterative processes as much as digital ones. (2) I don't like how "jigsaw-like" it is. There's all these "pieces" that have to work well together. And if the whole isn't greater than its parts (e.g. the game is too expensive, complicated, time-consuming to play, etc.), you often have to scrap the whole thing since it's all the parts together that don't work well together. Like a puzzle too, the more parts there are, the harder it is to make it a cohesive whole like this is a disjointed mess
