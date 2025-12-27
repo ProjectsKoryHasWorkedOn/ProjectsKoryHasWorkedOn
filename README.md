@@ -39,7 +39,6 @@ N/A
 * JS
 * PHP
 * Python
-* Java
 * QML
 
 📫 How to reach me: ...
