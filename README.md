@@ -18,6 +18,7 @@ I enjoy working on pet projects. I'm putting on projects I've worked on (and hav
 * [Dance learning platform mobile app](https://github.com/Hopping-Forwards/2025_Dance_Learning_Platform_Mobile_App)
 * [Dance learning platform web backend](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Web_Backend)
 * [Dance learning platform website](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Website)
+* [Virtual dance teacher](https://github.com/Hopping-Forwards/2026_Virtual_Dance_Tutor)
 * [Business website](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Website)
 * [Business financial web backend](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Financial_Backend)
 
