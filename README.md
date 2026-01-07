@@ -15,12 +15,12 @@ I enjoy working on pet projects. I'm putting on projects I've worked on (and hav
 * Video game scenario development
 
 👀 I'm currently focused on own business projects ...
-* [Dance learning platform mobile app](https://github.com/Hopping-Forwards/2025_Dance_Learning_Platform_Mobile_App)
-* [Dance learning platform web backend](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Web_Backend)
-* [Dance learning platform website](https://github.com/Hopping-Forwards/2024-2025_Dance_Learning_Platform_Website)
+* [Dance learning platform mobile app](https://github.com/Hopping-Forwards/2026_Dance_Learning_Platform_Mobile_App)
+* [Dance learning platform web backend](https://github.com/Hopping-Forwards/2026_Dance_Learning_Platform_Web_Backend)
+* [Dance learning platform website](https://github.com/Hopping-Forwards/2026_Dance_Learning_Platform_Website)
 * [Virtual dance teacher](https://github.com/Hopping-Forwards/2026_Virtual_Dance_Tutor)
-* [Business website](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Website)
-* [Business financial web backend](https://github.com/Hopping-Forwards/2024-2025_Hopping_Forwards_Financial_Backend)
+* [Business website](https://github.com/Hopping-Forwards/2026_Hopping_Forwards_Website)
+* [Business financial web backend](https://github.com/Hopping-Forwards/2026_Hopping_Forwards_Financial_Backend)
 
 👀 I'm currently focused on these business projects for other people ...
 N/A
